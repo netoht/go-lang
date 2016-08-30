@@ -1,0 +1,5 @@
+User: {{.VAR_NAME}}
+Age: {{.VAR_AGE}}
+City: {{.VAR_CITY}}
+Address: {{.VAR_ADDRESS}}
+ZIPCODE: {{.VAR_ZIPCODE}}
